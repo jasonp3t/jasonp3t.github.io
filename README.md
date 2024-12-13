@@ -1,5 +1,4 @@
 
-```markdown
 # JASON FANG
 **Email:** jason.fang.20010123@gmail.com  
 **Phone:** (717) 552-0918 | +852 9448 5325
@@ -59,5 +58,3 @@
   - YouTube
 - Worked summer camps at Xavier, Texas A&M, Yale, Columbia, Harvard, and Global Squad Summer Academy
 - Assisted and shadowed numerous offseason workouts for players such as DeAndre Hunter, Ty Jerome, Caleb Love, Victor Oladipo, etc.
-```
-
