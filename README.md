@@ -1,4 +1,3 @@
-Here's Jason Fang's resume converted to GitHub Markdown:
 
 ```markdown
 # JASON FANG
@@ -62,4 +61,3 @@ Here's Jason Fang's resume converted to GitHub Markdown:
 - Assisted and shadowed numerous offseason workouts for players such as DeAndre Hunter, Ty Jerome, Caleb Love, Victor Oladipo, etc.
 ```
 
-Feel free to copy and paste this into your GitHub repository! If you need any further adjustments, just let me know.
